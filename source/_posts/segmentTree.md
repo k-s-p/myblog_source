@@ -2,6 +2,8 @@
 title: segmentTree
 date: 2024-03-07 20:42:27
 tags:
+excerpt: 最近のABCではセグメント木の問題が多いですね、、、そろそろライブラリとして持っておいた方がいいと思い勉強したのでまとめて行きたいと思います。
+categories: date structure
 ---
 
 # セグメント木を理解を理解したい
